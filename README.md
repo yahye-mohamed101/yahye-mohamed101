@@ -9,7 +9,7 @@ Aspiring software engineer passionate about building scalable web applications a
 - **Other:** Problem-solving and collaborative development
 
 ## 🔧 Projects
-- [🚕 News Aggregator App](https://github.com/yahye-mohamed101/Headline)  
+- [🚕 Headline](https://github.com/yahye-mohamed101/Headline)  
  A React-based app that aggregates and displays the latest news from various sources. Deployed on Render.
 
 - [📚 ArtVine](https://github.com/EthanForrestCarr/ArtVine)
